@@ -1,4 +1,4 @@
-CREATE TABLE person (
+CREATE TABLE yourdb.person (
 	id int not null auto_increment,
 	name varchar(32) not null,
 	password varchar(32) not null,
